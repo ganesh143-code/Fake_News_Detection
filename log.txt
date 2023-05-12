@@ -1,0 +1,9 @@
+START TIME : 11:56:48.57 
+Downloading Microsoft Visual C++ Redistributable ... 
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+Installing Microsoft Visual C++ Redistributable ... 
